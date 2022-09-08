@@ -2,7 +2,7 @@
 
 FOLIO is an expert-written, open-domain, logically complex and diverse dataset for natural language reasoning with first-order logic.
 
-FOLIO is released with our paper: FOLIO: Natural Language Reasoning with First-Order Logic.
+FOLIO is released with our paper: [FOLIO: Natural Language Reasoning with First-Order Logic](https://arxiv.org/pdf/2209.00840.pdf).
 
 - folio-v0.0 with train and validation sets are in the data/v0.0 folder.
 - A leaderboard will be releeased soon to obtain your results on the unreleased test set.
