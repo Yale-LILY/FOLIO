@@ -1,5 +1,7 @@
 # FOLIO: Natural Language Reasoning with First-Order Logic
 
+[UPDATE]: We are excited to release a new version of FOLIO [here](https://huggingface.co/datasets/yale-nlp/FOLIO) with significant quality improvement and error fixing! 
+
 FOLIO is an expert-written, open-domain, logically complex and diverse dataset for natural language reasoning with first-order logic.
 
 FOLIO is released with our paper: [FOLIO: Natural Language Reasoning with First-Order Logic](https://arxiv.org/pdf/2209.00840.pdf).
